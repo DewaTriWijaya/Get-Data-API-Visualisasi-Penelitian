@@ -1,0 +1,32 @@
+{
+  "overview": {
+    "total_dosen": 0,
+    "total_publikasi": 0,
+    "total_sitasi": 0,
+    "avg_pub_per_dosen": "NaN",
+    "high_quality_percentage": "NaN"
+  },
+  "trend_3_years": [
+    {
+      "year": 2024,
+      "count": 0
+    },
+    {
+      "year": 2025,
+      "count": 0
+    },
+    {
+      "year": 2026,
+      "count": 0
+    }
+  ],
+  "by_faculty": {},
+  "avg_by_faculty": {},
+  "low_performers": [],
+  "zero_publications": [],
+  "quality_distribution": {
+    "scopus_indexed": 0,
+    "sinta_accredited": 0,
+    "highly_cited": 0
+  }
+}
